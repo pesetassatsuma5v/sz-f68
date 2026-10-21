@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://pesetassatsuma5v.github.io/sz-f68/sitemap.xml
